@@ -1,11 +1,11 @@
 {
-    "name": "EdUnify Dashboard",
-    "short_name": "EdUnify",
+    "name": "PharmaSchemes Dashboard",
+    "short_name": "PharmaSchemes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "EdUnify Dashboard - Management System",
+    "description": "PharmaSchemes Dashboard - Management System",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
